@@ -1,0 +1,3 @@
+ <launch>
+   <node pkg="behavior_tree" type="behavior_tree.py" name="behavior_tree" output="screen"/>
+</launch>
